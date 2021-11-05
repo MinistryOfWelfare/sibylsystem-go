@@ -1,8 +1,3 @@
-module github.com/AnimeKaizoku/PsychoPass
+module github.com/AnimeKaizoku/SibylSystem-Go
 
 go 1.16
-
-require (
-	//github.com/ALiwoto/StrongStringGo v1.0.4 // indirect
-)
-
